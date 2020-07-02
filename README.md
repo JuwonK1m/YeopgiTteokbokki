@@ -11,5 +11,8 @@
 - 메인 메뉴 중 매운맛 조절이 가능한 메뉴들이 있다.
 - 토핑은 메인 메뉴 중 엽기떡볶이/오뎅/반반/2인 엽기떡볶이에만 해당한다.
 - 여러 메뉴를 주문할 경우 특정 토핑을 특정 메뉴에 넣을 수 있어야 한다.
-## 데모 영상
-[![Watch the video]](https://www.youtube.com/watch?v=56JHV1dwauA&t=88s)
+## 데모 
+### 영상 1
+[![Watch the video](https://i.imgur.com/fl9xxaN.png)](https://www.youtube.com/watch?v=56JHV1dwauA&t=88s)
+### 영상 2
+[![Watch the video](https://i.imgur.com/nqFqQKL.png)](https://www.youtube.com/watch?v=x5m5wBo4sok&t=4s)
