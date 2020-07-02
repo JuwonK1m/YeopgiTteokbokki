@@ -12,4 +12,4 @@
 - 토핑은 메인 메뉴 중 엽기떡볶이/오뎅/반반/2인 엽기떡볶이에만 해당한다.
 - 여러 메뉴를 주문할 경우 특정 토핑을 특정 메뉴에 넣을 수 있어야 한다.
 ## 데모 영상
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=56JHV1dwauA&t=88s)
+[![Watch the video]](https://www.youtube.com/watch?v=56JHV1dwauA&t=88s)
